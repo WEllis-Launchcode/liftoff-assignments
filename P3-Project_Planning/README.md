@@ -24,4 +24,5 @@ https://trello.com/b/Rz4I1CiC/horoscope-project
 ### Project Repo Link
 
 Include a link to your project on GitHub.
+
 https://github.com/WEllis-Launchcode/Horoscope-Project
